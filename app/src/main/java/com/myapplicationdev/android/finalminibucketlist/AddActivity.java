@@ -111,7 +111,7 @@ public class AddActivity extends AppCompatActivity {
                 finish();
 
                 //Displaying Toast with Hello Javatpoint message
-                Toast.makeText(getApplicationContext(),"The data was successfully added.",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "The data was successfully added.", Toast.LENGTH_SHORT).show();
             }
 
         });
