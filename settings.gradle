@@ -1,0 +1,2 @@
+rootProject.name = "final mini bucket list"
+include ':app'
