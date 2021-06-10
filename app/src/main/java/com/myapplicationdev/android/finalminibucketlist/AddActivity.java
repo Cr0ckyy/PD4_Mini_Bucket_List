@@ -157,6 +157,7 @@ public class AddActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
     }
 
+    // function that would reduce the image size
     public Bitmap makeSmall(Bitmap image, int maxSize) {
         int width = image.getWidth();
         int height = image.getHeight();
